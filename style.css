@@ -1,0 +1,24 @@
+body {
+
+    max-width: 100%;
+    opacity: 50%
+}
+
+h1 {
+    color: dodgerblue;
+    font-size: 2em;
+    top: 0px;
+}
+
+p {
+    font-family: monospacesans-serif;
+    font-style: normal;
+    font-size: 1.2em;
+    line-height: 1.6em;
+    color: grey;
+}
+
+img {
+    max-height: 40%;
+    max-width: 40%;
+}
